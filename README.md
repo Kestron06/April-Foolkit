@@ -14,4 +14,5 @@ You'll need Node.js installed, and to run `npm i` in the bot's directory to inst
 ```json
 {
   "token":"YOUR BOT'S TOKEN HERE"
-}```
+}
+```
